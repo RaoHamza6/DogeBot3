@@ -12,10 +12,10 @@
 <a href="##"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/RaoHamza6"><img title="Developer" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/RaoHamza6"><img title="Developer" src="https://img.shields.io/badge/Author-Hamza-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="Hamza" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 # Setup For Deployment 👇
@@ -29,13 +29,13 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/RaoHamza6/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/RaoHamza6/LoserBot2/blob/master/session.json#L1)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/RaoHamza6/DogeBot3/blob/master/setting/setting.json#L6)
-- CHANGE OWNER NAME [Here](https://github.com/RaoHamza6/DogeBot3/blob/master/setting/setting.json#L7)
-- CHANGE BOT NAME [Here](https://github.com/RaoHamza6/DogeBot3/blob/master/setting/setting.json#L8)
+- CHANGE OWNER NUMBER [Here](https://github.com/RaoHamza6/LoserBot3/blob/master/setting/setting.json#L6)
+- CHANGE OWNER NAME [Here](https://github.com/RaoHamza6/LoserBot3/blob/master/setting/setting.json#L7)
+- CHANGE BOT NAME [Here](https://github.com/RaoHamza6/LoserBot3/blob/master/setting/setting.json#L8)
 
 ## ` BUILDPACKS`
 
@@ -46,7 +46,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RaoHamza6/DogeBot3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RaoHamza6/LoserBot3/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -57,8 +57,8 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-🦄 git clone https://github.com/RaoHamza6/DogeBot.git
-🦄 cd DogeBot3
+🦄 git clone https://github.com/RaoHamza6/LoserBot.git
+🦄 cd LoserBot3
 🦄 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -74,8 +74,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/RaoHamza6/DogeBot2
-🦄 cd DogeBot3
+🦄 git clone https://github.com/RaoHamza6/LoserBot2
+🦄 cd LoserBot3
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm start
@@ -99,4 +99,4 @@ My Whatsapp Group👇
 
 # Thanks To 👇
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/RaoHamza6)
+* [`Hamza`](https://github.com/RaoHamza6)
